@@ -1,0 +1,3 @@
+[submodule "COS316FinalProject/COS316FinalProject/ImageAI"]
+	path = COS316FinalProject/COS316FinalProject/ImageAI
+	url = https://github.com/ShelbyFulton/ImageAI
